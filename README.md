@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 - Performance Insights: The class average score is approximately 67.77. Male students averaged 65.84, while female students averaged 69.57.
 - Lunch Type: Students who had standard lunches averaged 70.84, while those who had free/reduced lunch averaged 62.20
 - Test Preparedness Course: Those who completed a test preparedness course outperformed those who didn't (72.7 to 65.0 average scores).
-- Parents' Level of Education: Students' performances were proportional to the level of their parents' educational level.
+- Parents' Level of Education: Students' average performances were proportional to the level of their parents' educational level.
   - Master's Degree: 74
   - Bachelor's Degree: 72
   - Associate Degree: 70
